@@ -4,7 +4,7 @@ This is a notes application that will enable users to create note templates for 
 # Table of Contents
 * [Description](#description)
 * [Technology Used](#tech stack)
-* [Features]
+* [Features](# features)
 * [Setup](#setup)
 * [How it works](#how-it-works)
 * [Issues](#challenges)
@@ -12,7 +12,7 @@ This is a notes application that will enable users to create note templates for 
 # Description
 This is a notes application that will enable users to create note templates for personal reminders.This is a fullstack application that is powered by MongoDb on the Backend.
 
-# Tech Stack 
+# Technology Used 
 * React js
 * Node js
 * MongoDb
