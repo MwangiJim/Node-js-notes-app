@@ -1,6 +1,6 @@
 # Node-js-notes-app
 This is a notes application that will enable users to create note templates for personal reminders.This is a fullstack application that is powered by MongoDb on the Backend.
-
+ ![Node js Notes Banner Image](/public/)
 # Table of Contents
 * [Description](#description)
 * [Technology Used](#tech stack)
